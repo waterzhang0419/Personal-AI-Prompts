@@ -23,3 +23,4 @@ Improving prompts, changing lives.
 ## 结合我自己的需求编写的 prompts（持续更新中...）
 
 * [雅思作文学习助理](./ielts/essay_evaluation.md)
+* [常规英语学习助理](./eng/translation.md)
