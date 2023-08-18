@@ -18,5 +18,6 @@
 
 ## 结合我自己的需求编写的 prompts（持续更新中...）
 
-* [雅思作文学习助理](./ielts/essay_evaluation.md)
+* [雅思作文评估助理](./ielts/essay_evaluation.md)
+* [雅思任务二（Task 2）作文高分范文助理](./ielts/essay_task2_example.md)
 * [常规英语学习助理](./eng/translation.md)
