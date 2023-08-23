@@ -21,3 +21,4 @@
 * [雅思作文评估助理](./ielts/essay_evaluation.md)
 * [雅思任务二（Task 2）作文高分范文助理](./ielts/essay_task2_example.md)
 * [常规英语学习助理](./eng/translation.md)
+* [金字塔原则分析助理](./the_pyramid_principle/pyramid_principle.md)
