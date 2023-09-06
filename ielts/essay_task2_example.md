@@ -16,16 +16,13 @@
 
 建议以这种格式发送消息：
 
-> 根据"```题型```"题型，以"```话题```"为话题，按照雅思7分以上的标准，写一篇英文范文。
+> 题型：\[说明文\] 话题：\[\]
 
 例子：
-> 根据"利弊分析"题型，以"AI技术"为话题，按照雅思7分以上的标准，写一篇英文范文。
-
-当然，你完全可以把 7 分的要求改为 8 分，来对照看有什么区别。
 
 你甚至可以直接用雅思真题的话题，比如这个雅思 16 Test 1 的话题：
 
-> 根据"分析原因后果（说明文）"题型，以"In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in."为话题，按照雅思7分以上的标准，写一篇英文范文。
+> 题型：\[说明文\] 话题：\[In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in.\]
 
 ### 其他说明
 
@@ -40,7 +37,7 @@ A: 可能是聊天内容累计过多， AI 丢失了部分上下文内容。解�
 ### 示例
 
 输入：
-> 根据"分析原因后果（说明文）"题型，以"In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in."为话题，按照雅思7分以上的标准，写一篇英文范文。
+> 题型：\[说明文\] 话题：\[In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in.\]
 
 GPT 3.5 生成的结果：
 
