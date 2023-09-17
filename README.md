@@ -20,6 +20,8 @@
 
 * [雅思作文评估助理](./ielts/essay_evaluation.md)
 * [雅思任务二（Task 2）作文高分范文助理](./ielts/essay_task2_example.md)
+* [雅思口语考试全真模拟助理](./ielts/speaking_process.md)
+* [雅思口语考试答案评估助理](./ielts/speaking_evaluation.md)
 * [常规英语学习助理](./eng/translation.md)
 * [金字塔原则分析助理](./the_pyramid_principle/pyramid_principle.md)
 * [行业关键词归纳学习助理](./keywords/basic_keywords.md)
