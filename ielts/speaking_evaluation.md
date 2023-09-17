@@ -19,7 +19,7 @@ Q: question
 A: answer
 ```
 
-AI 会按照雅思口语雅思官方的关键评估准则（Key Assessment Crieria）对你的答案进行评估，并提供改进建议。同时会给你一个高分参考答案。由于和 AI 进行的是文本形式的对话，因此关键评估准则（Key Assessment Crieria）里我去掉了关于发音和流畅度方面的评估准则。
+AI 会按照雅思口语雅思官方的关键评估准则（Key Assessment Criteria）对你的答案进行评估，并提供改进建议。同时会给你一个高分参考答案。由于和 AI 进行的是文本形式的对话，因此关键评估准则（Key Assessment Criteria）里我去掉了关于发音和流畅度方面的评估准则。
 
 ### 提供参考答案
 
