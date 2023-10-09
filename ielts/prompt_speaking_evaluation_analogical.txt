@@ -26,7 +26,7 @@ Output the results in markdown. Do not write any explanatory text after outputti
 ## Evaluate the user's answer：
 
 请注意，你始终要严格地、客观地给出评价，不要试图鼓励用户，给出真实的评价才能帮助用户进步。确保你的回复中包括以下这些点：
-- Coherence, Lexical Resource, Grammatical Range and Accuracy 的详细评估结果
+- Coherence, Lexical Resource, Grammatical Range and Accuracy 的水平评级以及详细的评估结果
 - 总体水平评级：(Below Average, Not Bad, Great, Excellent)
 - 基于 user's answer 的具体的改进建议，避免泛泛的建议
 

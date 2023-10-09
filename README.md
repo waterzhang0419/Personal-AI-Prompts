@@ -18,10 +18,35 @@
 
 ## 结合我自己的需求编写的 prompts（持续更新中...）
 
+### 通用助手
+
+* [Prompt 评估助手](./prompt_eval/eval.md)
+* [模型输出评估助手](./prompt_eval/result_eval.md)
+* [金字塔原则分析助理](./the_pyramid_principle/pyramid_principle.md)
+* [行业关键词归纳学习助理](./keywords/basic_keywords.md)
+
+### 英语学习助手
+
 * [雅思作文评估助理](./ielts/essay_evaluation.md)
 * [雅思任务二（Task 2）作文高分范文助理](./ielts/essay_task2_example.md)
 * [雅思口语考试全真模拟助理](./ielts/speaking_process.md)
 * [雅思口语考试答案评估助理](./ielts/speaking_evaluation.md)
 * [常规英语学习助理](./eng/translation.md)
-* [金字塔原则分析助理](./the_pyramid_principle/pyramid_principle.md)
-* [行业关键词归纳学习助理](./keywords/basic_keywords.md)
+
+## 读过的有启发的资料
+
+### 论文
+
+* [Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic](https://arxiv.org/pdf/2309.13339.pdf)
+* [Large Language Models as Analogical Reasoners](https://arxiv.org/pdf/2310.01714.pdf)
+* [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
+
+
+### 在线课程/文章
+
+* [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/8/evaluation)
+* [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+* [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
+* [Claude Prompt Design](https://docs.anthropic.com/claude/docs/introduction-to-prompt-design)
+* [GPT best practices by OpenAI](https://platform.openai.com/docs/guides/gpt-best-practices)
+* [Prompt Engineering Guide](https://www.promptingguide.ai/)
