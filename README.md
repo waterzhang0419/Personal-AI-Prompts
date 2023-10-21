@@ -33,20 +33,52 @@
 * [雅思口语考试答案评估助理](./ielts/speaking_evaluation.md)
 * [常规英语学习助理](./eng/translation.md)
 
+## 笔记
+
+* [CoT 技巧总结](./notes/cot.md)
+
+* [如何让 AI 尽量少胡说八道？](./notes/reduce_huallucination.md)
+
+* [如何通过和 AI 对话优化提示词 (prompt)？](./notes/optimize_prompts.md)
+
+* [写 prompt 是一件性价比很高的事情](./notes/write_more_prompts.md)
+
+* [使用老顽童周伯通的左右互搏之术，让 AI 自己校验答案](./notes/opposite_reviews.md)
+
+* [把人类认知过程中的类比推理用到写提示词中（Analogical Prompting）](./notes/analogical_prompting.md)
+
+* [很长的上下文中如何提升 AI 回答的精确性](./notes/long_context_window.md)
+
 ## 读过的有启发的资料
-
-### 论文
-
-* [Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic](https://arxiv.org/pdf/2309.13339.pdf)
-* [Large Language Models as Analogical Reasoners](https://arxiv.org/pdf/2310.01714.pdf)
-* [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
-
 
 ### 在线课程/文章
 
 * [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/8/evaluation)
+
 * [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
 * [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
+
 * [Claude Prompt Design](https://docs.anthropic.com/claude/docs/introduction-to-prompt-design)
+
 * [GPT best practices by OpenAI](https://platform.openai.com/docs/guides/gpt-best-practices)
+
 * [Prompt Engineering Guide](https://www.promptingguide.ai/)
+
+### 论文
+
+* [Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic](https://arxiv.org/pdf/2309.13339.pdf)
+
+* [Large Language Models as Analogical Reasoners](https://arxiv.org/pdf/2310.01714.pdf)
+
+* [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
+
+* [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/pdf/2309.11495.pdf)
+
+* [Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](https://arxiv.org/pdf/2309.16797.pdf)
+
+* [Least-to-Most prompting enables complex reasoning in large language](https://arxiv.org/pdf/2205.10625.pdf)
+
+* [Automatic Chain of Thought prompting in Large Language Models](https://arxiv.org/pdf/2210.03493.pdf)
+
+* [Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models](https://arxiv.org/pdf/2310.06692.pdf)
