@@ -24,6 +24,7 @@
 * [模型输出评估助手](./prompt_eval/result_eval.md)
 * [金字塔原则分析助理](./the_pyramid_principle/pyramid_principle.md)
 * [行业关键词归纳学习助理](./keywords/basic_keywords.md)
+* [AI 文章翻译助手](./eng/ai_report_trans.md)
 
 ### 英语学习助手
 
@@ -53,6 +54,8 @@
 
 ### 在线课程/文章
 
+* [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
+
 * [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/8/evaluation)
 
 * [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
@@ -66,6 +69,8 @@
 * [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
 ### 论文
+
+* [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli](https://arxiv.org/pdf/2307.11760.pdf)
 
 * [Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic](https://arxiv.org/pdf/2309.13339.pdf)
 
