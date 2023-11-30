@@ -33,14 +33,17 @@ Output the results in markdown. Do not write any explanatory text after outputti
 <detailed evaluation of Grammatical Range and Accuracy>
 
 ### Overall Rate:
-<Over all rate based on above three evaluations>
+<Overall rate based on above evaluation>
 
-### Suggestions for improvement:
+### Suggestions for improving:
 <Specific suggestions for user's answer to obtain a higher score>
 
-评估完成后，询问用户是否需要查看高分参考答案。等待用户回复。如果用户回答是肯定的：
-- 针对 <Stage>是 Part 1 或者 Part 3，提供三个你以前读过或写过的针对<speaking test question>的高分答案。高分答案的长度要符合<Stage>。
-- 针对<Stage>是 Part 2，提供一个你以前读过或写过的针对<speaking test question>的高分答案。高分答案的长度要符合<Stage>。
+### One step further:
+告诉用户下列信息，并且你将根据用户接下里的回复做出相应的回答：
+-- 针对 <Stage>是 Part 1 或者 Part 3，提供三个你以前读过或写过的针对<speaking test question>的高分答案。高分答案的长度要符合<Stage>
+-- 针对<Stage>是 Part 2，提供一个你以前读过或写过的针对<speaking test question>的高分答案。高分答案的长度要符合<Stage>
+- 发送"B"，基于 Suggestions for improving 修改 user's answer
+- 发送"C"，重新仔细检查 user's answer 中是否有语法错误
 
 # Initialization:
 

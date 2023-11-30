@@ -36,6 +36,8 @@
 
 ## 笔记
 
+* [人人都能用的生成式 AI](./notes/genaiforeveryone.md)
+
 * [CoT 技巧总结](./notes/cot.md)
 
 * [如何让 AI 尽量少胡说八道？](./notes/reduce_huallucination.md)
@@ -48,41 +50,51 @@
 
 * [把人类认知过程中的类比推理用到写提示词中（Analogical Prompting）](./notes/analogical_prompting.md)
 
-* [很长的上下文中如何提升 AI 回答的精确性](./notes/long_context_window.md)
+* [长上下文中如何提升 AI 回答的精确性](./notes/long_context_window.md)
 
 ## 读过的有启发的资料
 
-### 在线课程/文章
+### 生成式 AI 基础知识
 
-* [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
+* [Generative AI for Everyone by Andrew Ng](https://www.coursera.org/learn/generative-ai-for-everyone)
 
-* [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/8/evaluation)
+* [Generative AI for Beginners by Microsoft](https://microsoft.github.io/generative-ai-for-beginners/#/)
+
+### 提示词技巧
 
 * [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-* [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
+* [GPT best practices by OpenAI](https://platform.openai.com/docs/guides/gpt-best-practices)
 
 * [Claude Prompt Design](https://docs.anthropic.com/claude/docs/introduction-to-prompt-design)
 
-* [GPT best practices by OpenAI](https://platform.openai.com/docs/guides/gpt-best-practices)
-
 * [Prompt Engineering Guide](https://www.promptingguide.ai/)
 
-### 论文
+* [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
+
+### 提示词相关论文
 
 * [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli](https://arxiv.org/pdf/2307.11760.pdf)
-
-* [Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic](https://arxiv.org/pdf/2309.13339.pdf)
 
 * [Large Language Models as Analogical Reasoners](https://arxiv.org/pdf/2310.01714.pdf)
 
 * [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
 
+* [Least-to-Most prompting enables complex reasoning in large language](https://arxiv.org/pdf/2205.10625.pdf)
+
+* [Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models](https://arxiv.org/pdf/2310.06117.pdf)
+
+* [Guiding Large Language Models via Directional Stimulus Prompting](https://arxiv.org/pdf/2302.11520.pdf)
+
+* [Generated Knowledge Prompting for Commonsense Reasoning](https://arxiv.org/pdf/2110.08387.pdf)
+
+* [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/pdf/2304.11657.pdf)
+
+* [Enhancing Zero-Shot Chain-of-Thought Reasoning in Large Language Models through Logic](https://arxiv.org/pdf/2309.13339.pdf)
+
 * [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/pdf/2309.11495.pdf)
 
 * [Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution](https://arxiv.org/pdf/2309.16797.pdf)
-
-* [Least-to-Most prompting enables complex reasoning in large language](https://arxiv.org/pdf/2205.10625.pdf)
 
 * [Automatic Chain of Thought prompting in Large Language Models](https://arxiv.org/pdf/2210.03493.pdf)
 
